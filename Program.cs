@@ -55,6 +55,8 @@ namespace BySykkelSys
                 WriteLine(String.Format("{0,-10} | {1,-10} | {2,-10} | {3,-10}", item.station_id, item.num_bikes_available, item.num_docks_available, item.name));
 
             }
+            
+             ReadLine();
 
             //*
             //*****************************************************PRINTOUT******************************************************************
