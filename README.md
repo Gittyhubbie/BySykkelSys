@@ -12,5 +12,4 @@ Trikset ble på en måte å kombinere resultatene fra to av APIene til en "table
 
 :)
 
-MVH
-Per Sverre Anda
+Gittyhubbie
