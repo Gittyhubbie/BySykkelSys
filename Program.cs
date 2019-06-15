@@ -5,7 +5,7 @@ using System.Net.Http;
 using Newtonsoft.Json;
 using static System.Console;
 
-// App made by: Per Sverre Anda on a rainy day the 14 of june 2019.
+// App made by: Gittyhubbie on a rainy day the 14 of june 2019.
 // This program is developed to keep track of rentalbikes in the city of Oslo, consuming official available APIs. 
 // The API is here a json-file, updating every 10 minutes.
 // This program dont update every 10 minutes, but I could implement it easy using a timer.
